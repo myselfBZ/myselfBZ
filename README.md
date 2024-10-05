@@ -6,3 +6,4 @@ Role: Backend Dev
 i use Vim, btw
 
 Uzbekchani bilaman)
+Born in 2007
